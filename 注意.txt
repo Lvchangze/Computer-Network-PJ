@@ -1,0 +1,2 @@
+我修改的文件：bt_parse.[ch]，handle-GET.[ch]，peer.[ch]，packet.[ch]，queue.[ch]，priority.[ch]，timer.[ch]，transfer.[ch]
+MakeFile里的内容也要修改。
